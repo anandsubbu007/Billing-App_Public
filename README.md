@@ -1,4 +1,50 @@
-# Billing-App_Public
+# **E-Billing App**
+
+**Overview:**
+The E-Billing App is designed specifically for B2B sellers such as distributors and wholesalers. This robust application enables users to create products, manage billing for customers, and generate a variety of customizable reports. The app supports PDF, chart, GST reports for filing, dynamic table views like sales and purchase reports, and product reorder suggestions. 
+
+**Key Features:**
+
+1. **Product and Customer Management:**
+   - Create and manage products.
+   - Bill customers and generate invoices.
+   - Credit and debit management linked to users.
+
+2. **Reporting:**
+   - Generate customized reports.
+   - View reports in PDF format, as charts, or in dynamic tables.
+   - GST report generation for filing.
+   - Sales and purchase reports.
+   - Inventory tracking and reorder suggestions.
+   - Sales volume analysis for products.
+
+3. **Order Management:**
+   - Sales representatives can create orders for customers via mobile.
+   - Approve and generate invoices for orders on the Windows app.
+   - Group orders to track delivery details.
+
+4. **Data Management:**
+   - Works offline with data synchronization.
+   - Data can be shared via TCP connection locally.
+   - Firebase backend for data storage and transfer.
+
+5. **Additional Features:**
+   - Smart product suggestions to promote sales.
+   - Inventory management and tracking.
+   - User-friendly interface for seamless operations.
+   - Multi-platform support: Windows, Android, and iOS.
+
+**Technologies Used:**
+- **Frontend:** Developed using Flutter for Android and iOS, and a Windows application.
+- **Backend:** Firebase for secure data storage and transfer.
+- **Offline Support:** Works seamlessly offline with local data storage.
+- **Data Transfer:** TCP connection for local data sharing.
+
+**Challenges and Achievements:**
+This project took one year to complete and has been successfully adopted by many users. It stands out due to its comprehensive features and the ability to streamline billing and reporting for B2B sellers. 
+
+The E-Billing App is an indispensable tool for distributors and wholesalers, providing powerful features for managing billing, generating reports, and optimizing sales processes.
+
 
 ## Windows Desktop App
 
